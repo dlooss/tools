@@ -10,7 +10,6 @@ Created on 2015年12月10日
 """
 import os
 import sys
-import commands
 
 
 def list_all(dir_name):
